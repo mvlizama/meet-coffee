@@ -1,0 +1,140 @@
+body {
+  text-align: center;
+color: black;
+margin: 0;
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding:0;
+}
+
+nav{
+  text-align: left;
+  padding: 1.25rem 4rem;
+  background: #000f08;
+    color: #ffffff;
+    padding: 20px;
+    margin: 0px;
+    position: fixed;
+    width: 100vw;
+}
+
+nav ul {
+list-style-type: none;
+}
+
+nav ul li{
+  display: inline-block;
+  margin: 0 1em;
+}
+h1{
+  margin-bottom: 1rem;
+}
+
+h2{
+  text-align: ;
+  margin-bottom: 1rem;
+}
+
+h3{
+  height: 40px;
+  font-size: 25px;
+}
+
+h4{
+}
+
+header img{
+  height: 300px;
+  margin-top: 2rem;
+}
+header{
+  padding: 1rem;
+  color: black;
+
+}
+
+section{
+  text-align: justify;
+  margin-top: 2rem;
+  margin-right: 417px;
+  margin-left: 417px;
+}
+
+p{
+  line-height: 1rem;
+  margin-bottom: 20px;
+}
+
+
+.oscuro {background: #000f08;
+  color: #ffffff;
+}
+
+.oscuro a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.sweet-brown{
+  text-align: left;
+  background: #a4452c;
+  color: #ffffff;
+  padding: 50px;
+  margin-left: 0px ;
+  margin-right: 0px;
+}
+
+
+.hero-section{
+  text-align: right;
+  background-image: url('../img/bg-hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  text-shadow: 2px 3px 2px #707070;
+  padding: 6.25rem 3.125rem;
+}
+
+ footer {
+  margin-top: 75px
+}
+
+footer {
+  padding: 50px;
+}
+
+.charla-texto, .evento {
+  display: inline-block;
+
+}
+
+.foto-1 img{
+  top: 2129px;
+left: 193px;
+width: 415px;
+height: 244px;
+}
+
+.text-final{
+  padding: 10rem 4rem;
+}
+.image-simposio{
+  height: 10px;
+}
+
+.simposio{
+  color: black;
+  color: black;
+  padding-top: 5rem;
+  font-size: 40px;
+  text-align: left;
+  margin-left: 350px;
+  padding-bottom: 0;
+  }
+
+  .icons{
+  padding: 100px;
+  }
